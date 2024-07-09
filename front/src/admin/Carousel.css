@@ -1,0 +1,50 @@
+.drag-drop-box {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .drag-drop-box:hover {
+    background-color: #f8f8f8;
+  }
+  .navbar + .container {
+    margin-top: 30px; /* Adjust the value as needed */
+  }
+  
+  .container {
+    padding-top: 30px; /* Add some top padding */
+  }
+  
+  /* Optional: If you want to add some padding within the form container */
+  .carousel-form-container {
+    max-height: 600px; /* Set a maximum height for the form container */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 15px; /* Adjust padding for the form container */
+    background-color: #f9f9f9; /* Optional: Add background color for better visibility */
+    border-radius: 8px; /* Optional: Add border radius for rounded corners */
+    margin-top: 20px; /* Optional: Add margin-top to create space from header */
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 0px; /* Reduced top padding */
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+
+
+  
+  .carousel-section {
+    margin-top: 5px; /* Reduce margin above the Carousel Section heading */
+  }
+  
+  .carousel-form-container {
+    padding-top: 5px; /* Reduce top padding within the form container */
+  }
+  
+
+  /* } */
+   
